@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <h1>Bianca Román</h1>
+  <h1>Olá, sou Bianca Román👋</h1>
 </div>
 
 <div> 
