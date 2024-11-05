@@ -49,7 +49,6 @@
 ###
 
 <br clear="both">
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=biancaroman&theme=tokyo-night&radius=12&area=true" alt="activity-graph graph" />
   <img width="61.5%"src="https://streak-stats.demolab.com?user=biancaroman&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph"  />
