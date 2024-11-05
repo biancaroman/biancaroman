@@ -1,7 +1,7 @@
 
 <div align="center">
-<h1>Hi👋! Be welcome to my profile ;) I'm Bianca Román</h1>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9873fe&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9873fe&height=120&section=header"/>
+  <h1>Hi👋! Be welcome to my profile ;) I'm Bianca Román</h1>
 </div>
 
 <div align="left">
