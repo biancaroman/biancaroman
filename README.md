@@ -3,7 +3,9 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9873fe&height=120&section=header"/>
 </div>
 
-### Bianca Román
+<div>
+  <h1>Bianca Román</h1>
+</div>
 
 <div> 
   <a href="https://instagram.com/_biancaroman" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
