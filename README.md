@@ -3,8 +3,10 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9873fe&height=120&section=header"/>
 </div>
 
-## Hi👋! I'm Bianca Román
-### Be welcome to my profile ;) 
+<div align="center">
+  <h1> Hi 👋, Welcome to my profile!</h1>
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
